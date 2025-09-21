@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. **Permission Denied**: Grant all required permissions in device settings
 3. **Device Not Found**: Make sure the target device is discoverable
 4. **Messages Not Sending**: Check connection status and try reconnecting
-
+ 
 ### Debug Tips
 
 - Check Android Studio logcat for detailed error messages
