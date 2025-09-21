@@ -1,7 +1,7 @@
 # Offline Bluetooth Messaging App
 
 An Android application that enables two devices to send and receive text messages via Bluetooth without requiring internet connectivity. This app demonstrates peer-to-peer communication using Android's Bluetooth API.
-
+ 
 ## Features
 
 - **Device Discovery**: Scan for and discover nearby Bluetooth-enabled devices
